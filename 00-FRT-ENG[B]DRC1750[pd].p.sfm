@@ -1,0 +1,300 @@
+\id FRT ENG (p.sfm) - Haydock - Haydocks expanded Duoay Rheims Bible. 1883 Edition. ☩
+\ide UTF-8
+\toc1 Haydock Bible (1883 expanded edition)
+\imt1 The Holy Catholic Bible
+\imt5 according to the Douay and Rheimish Versions
+\imt5 with useful notes, critical, historical, controversial, and explanatory,
+\imt5 selected from the most eminent commentators, and the most able and judicious critics,
+\imt3 by the late Rev. Geo. Leo Haydock.
+\periph Publication Data
+\im This electronic transcription is based on the 1883 edition of Haydock's Catholic Family Bible and Commetnary printed by Edward Dunigan and Brother, New York, New York. It is called an "expanded" version because many of the abbreviations used in the printed text have been expanded by the transcriber for this edition. See Transcriber's Notes section below for details about this and some of the other other changes made by the transcriber to the printed text for this electronic transciption.
+\periph Preface
+\h Preface
+\toc1 Preface
+\imt1 Preface to the Bible,
+\imt5 Transcriber's Notes
+\imt5 BIBLICAL CITATIONS
+\im Douay-Rheims Bible Text. The biblical citations in the footnotes associated with the Douay-Rheims Bible text typically include the name of the Book (often abreviated), followed by the Chapter number (in lower-case Roman numerals), and the Verse number (in Arabic numerals). For example, Genesis 3:15. and Gen. 3:15. refer to the Book of Genesis, Chapter 3, Verse 15. --- Instead of repeating the name of the Book, Supra (Latin: above) or Infra (Latin: below) is used to denote the Chapter and Verse in the same Book, but preceding or following, respectively. For example, in Genesis, Supra 3:15. and Infra 3:15. refer to Genesis 3:15. Although Supra v. and Infra v. are usually used to denote Chapter 5 in the same Book and Supra ver. and Infra ver. are used to denote the Verse in the same Chapter, occasionally Supra v. and Infra v. are used in place of Supra ver. and Infra ver. to denote the Verse in the same Chapter.
+\ip Haydock Bible Commentary. Haydock's Bible Commentary uses the same (Book name, Chapter number, and Verse number) format described above but, instead of using Supra or Infra in biblical citations, it uses an abreviation for Chapter, such as Chap., chap., C., or c., in place of the name of the same Book and it uses an abreviation for Verse, such as Ver., ver., V., or v., in place of the same Book and same Chapter. For example, in the commentary on Genesis, unless another book has just been mentioned, C. 3:15. refers to Genesis 3:15. Similarly, in the commentary on Genesis 3., unless another book or chapter has just been mentioned, verse 15. refers to Genesis 3:15. --- When another Book in a series is cited or when the name of a Book has already been cited in the sentence, B. (for Book) is sometimes substituted for the name of the book. For example, the commentary on 1 Machabees 1:10. cites 2 B. II. 20., which refers to 2 Machabees 2:20. Similarly, Ep. or ep. (for Epistle) is sometimes substituted for the name of the Book in the biblical citation, especially when the name of the Book or the author of the Book is previously mentioned in the sentence. For example, the commentary on Psalm xxxiii. 13. reads in part, "S. Peter (1 ep. 3:10.) adopts this sense...," where 1 ep. 3:10. refers to 1 Peter 3:10.
+\ip Haydock's Bible Commentary features commentary on individual Verses, such as Ver. 3., on definite ranges of Verses, such as Ver. 2-5., and on indefinite ranges of Verses, such as Ver. 4. etc. (See Note, below.) These designations are not definitive and, for any given verse, it is a good idea to also review the commentary for the preceding verses in the chapter, as well as any available prefatory or concluding comments on that chapter.
+\ip he initial designation of these featured commentaries also serves as a hyperlink to the corresponding Verse in the Douay-Rheims Bible text. In the case of featured commentary on a range of Verses, the hyperlink is to the Verse in the Douay-Rheims Bible text that corresponds to the range's initial Verse. For example, the hyperlink for Ver. 2-5. goes to Verse 2 in the Douay-Rheims Bible text.
+\ip Note: etc. is the same as etc., an abbreviation of the Latin et cetera: and others, and the like, and the rest, and so forth.
+\imt5 BIBLE CHRONOLOGY
+\im A.M. signifies Anno Monai, that is, in the Year of the World. --- A.C. signifes Ante Christum, that is, Year before Christ, as does B.C. --- A.D., Anno Domini, in the Year of our Lord. --- The Bible chronology proposed by Usher or a similar chronology, which places the Creation of the World (A.M. 1) at 4004 years before the Birth of Christ, is employed in the footnotes accompanying the Douay-Rheims Bible text and in Haydock's Bible Commentary to date various Biblical events. Though prominently featured in these works, the Catholic Church makes no dogmatic claim about the accuracy of this proposed Bible chronology and Catholics are free to reject this chronology for another, even one that reckons the Creation of the Universe at nearly 14,000,000,000 years before the Birth of Christ.
+\imt5 CHANGES MADE TO THE ORIGINAL DOUAY-RHEIMS BIBLE TEXT FOR THIS TRANSCRIPTION
+\im Footnotes. The original Douay-Rheims Bible text indicates footnotes with letters of the alphabet, in a smaller, superscript font. In the original text the first footnote on any given page is indicated with a, the second with b, the third with c, etc. Because the pagination of the original text is not preserved in this transcription, all the alphabetical footnote indicators in the original Bible text have been replaced by astericks. The first footnote indicator in any given verse is marked with one asterick, *, the second with two asterisks, **, the third with three astericks, ***, and the fourth with four astericks, ****. The asterisks in the Bible text also serve as hyperlinks to corresponding footnotes in the footnote section. In the footnote section, the reference verse number is given, followed by a colon, and then the footnote for that verse. If there are multiple footnotes in a verse, they are separated from one another by a long dash, ---, and identified with an appropriate number of leading astericks, * for the first footnote, ** for the second footnote, *** for the third, and **** for the fourth footnote. For example, the Bible text for Matthew1:7. indicates multiple footnotes: "7 *And Solomon begot Roboam. **And Roboam begot Abias. ***And Abias begot Asa." And, the footnote section for verse 7 accordingly reads: "7: * 3 Kings11:43. --- ** 3 Kings xiv. 31. --- *** 3 Kings xv. 8." Thus, the first footnote, *, in verse 7 cross-references the text, "And Solomon begot Roboam," to 3 Kings 11:43.; the second footnote, **, cross-references the text, "And Roboam begot Abias," to 3 Kings xiv. 31.; and, the third footnote, ***, cross-references the text, "And Abias begot Asa," to 3 Kings xv. 8. The reference verses in the footnote section also serves as hyperlinks back to the corresponding verses in the Bible text.
+\ip Beause the original spacing between the individual terms of a footnote containing multiple terms has not been preserved in this transcription, a semi-colon has been added to separate the terms from one another. For example, the original footnote for Matthew 1:21. contains two terms, "Luke 1:31." and "Acts 4:12.," separated one from the other by a double-space. In this transcription, having replaced the original double-space with a semicolon, the footnote reads, "21: Luke 1:31.; Acts 4:12."
+\ip Chapter titles. In the original Douay-Rheims Bible text, chapter titles of any given book appear as CHAP. 1., CHAP. 2., CHAP. 3., etc. In an attempt to make it easier to further identify a particular chapter, chapter titles in this transcription feature the name of the book followed by the chapter number in lower case Roman numerals, similar to the biblical citations used throughout these works. For example, in this transcription the chapter titles in the book of Matthew appear as Matthew i., Matthew ii., Matthew iii., etc.
+\imt5 CHANGES MADE TO THE ORIGINAL HAYDOCK BIBLE COMMENTARY TEXT FOR THIS TRANSCRIPTION
+\im Greek letters. The original Haydock Commentary text sometimes includes Greek expressions spelled out in Greek letters. In this transcription, those expressions have been transliterated from Greek letters to English letters, italicized and underlined. The following substitution scheme has been used:
+\tr \th1 Greek \th2 Latin \th3 \th4 Greek \th5 Latin \th6 \th7 Greek \th8 Latin
+\tr \tc1 Alpha \tc2 A \tc3 \tc4 Beta \tc5 B \tc6 \tc7 Gamma \tc8 G
+\tr \tc1 Delta \tc2 D \tc3 \tc4 Epsilon \tc5 E \tc6 \tc7 Zeta \tc8 Z
+\tr \tc1 Eta \tc2 E \tc3 \tc4 Theta \tc5 Th \tc6 \tc7 Iota \tc8 I
+\tr \tc1 Kappa \tc2 K \tc3 \tc4 Lamda \tc5 L \tc6 \tc7 Mu \tc8 M
+\tr \tc1 Nu \tc2 N \tc3 \tc4 Xi \tc5 X \tc6 \tc7 Omicron \tc8 O
+\tr \tc1 Pi \tc2 P \tc3 \tc4 Rho \tc5 R \tc6 \tc7 Sigma \tc8 S
+\tr \tc1 Tau \tc2 T \tc3 \tc4 Upsilon \tc5 U \tc6 \tc7 Phi \tc8 Ph
+\tr \tc1 Chi \tc2 Ch \tc3 \tc4 Psi \tc5 Ps \tc6 \tc7 Omega \tc8 O
+\ip For example, where the name, Jesus, is spelled out in the original text in Greek letters, Iota-eta-sigma-omicron-upsilon-sigma, it is transliterated in this transcription as, Iesous. Greek diacritical marks have not been represented in this transcription.
+\ip Footnotes. The original Haydock commentary text indicates footnotes with special characters, including the astrisk (*) and printers' marks, such as the dagger mark, the double dagger mark, the section mark, the parallels mark, and the paragraph mark. In this transcription all these special characters have been replaced by numbers in square brackets, such as [1], [2], [3], etc. The footnote indicators in the commentary text also serve as hyperlinks to the corresponding footnotes in the footnote section and vice versa.
+\ip Accent marks. The original text contains some English letters represented with accent marks. In this transcription, those letters have been rendered without their accent marks.
+\ip Horizontal lines. Solid horizontal lines of various lengths that appear in the original text have been represented as a series of consecutive hyphens of approximately the same length, such as ---.
+\ip Monetary sums. Monetary sums in the original text represented with a preceding British pound sterling symbol (a stylized L, transected by a short horizontal line) are represented in this transcription with a following pound symbol, L.
+\periph Foreword
+\h Foreword
+\toc3 Foreword
+\imt1 Foreword
+\im "Among the many and great blessings which God has bestowed upon his Church, by means of the sacred Council of Trent, we may justly reckon this as one of the greatest, that out of so many Latin editions of the divine Scriptures, he has declared, in the most solemn manner, the ancient Vulgate alone to be authentic, which had been approved in the Church, and used during so many hundred years. For, no to mention that many of the late editions seemed to have been falsely translated, on purpose to maintain the heresies of the present times; so great a variety of contradictory versions was undoubtedly calculated to introduce great confusion in the Church of God. for, at the present period the same inconvenience is observable, which was noticed by St. Jerome (praef. in Jos.) in his time; I mean that there were as many different works as there were copies, tot fuise exemplaria quot codices; as each person allowed himself the liberty of inserting or leaving out what he thought proper. The authority, however, of this old Vulgate edition, was always so much superior to that of any other, that no equitable judge can entertain a doubt, but that it deserves to be preferred before them all. For the books which are contained in it, as it has been handed down to us by our ancestors, have bee received partly from the version or correction of St. Jerome, partly retained from the very ancient Latin edition, which St. Jerome styled the common and the Vulgate (Isaias 49.) St. Augustine the Italic (Christian Doctrine II. 15.) and St. Gregory the old translation (Ep. ad Leand. C. 5.) Concerning this old or Italic edition's superior accuracy, there is still extant the glorious testimony of St. Augustine, in the second book of Christian Doctrine; where he says, that in his opinion the Italic deserved to be preferred before all the numerous Latin editions which were then in the hands of the public, because it adhered closer to the words of the original, and delivered the sense in a clearer manner. The ancient Fathers have moreover frequently spoken in the highest terms of St. Jerome, whom St. Augustine (above, and City of God 18. 43.) styles a most learned man, and one perfectly acquainted with the three languages; and he shews that his translation is accurate, from the testimony of the Jews themselves. St. Gregory extols the same person in such a manner, that he says, his translation, which he calls the new one, is more accurately taken from the Hebrew in all respects than any other; and hence upon it, we may entirely depend. (Mor. 20, 24.) St. Isidore likewise in many places gives the preference to St. Jerome's version, before any other, and testifies that it was generally received and approved of by the Christian Churches, because the words were more expressive of the genuine meaning of the text. (Etymol. 65.) The learned Sophronius, perceiving the approbation which was given it, not only by the Latins, but also by the Greeks, was so much taken with it, that he gave an elegant Greek version of St. Jerome's translation of the Psalms, and also of the Prophets. The men most eminent for learning in the following ages, Remigius, Bede, Rabanus, Haymo, Anselm, Peter Damian, Richard, Hugh, Bernard, Rupert, Peter Lombard, Alexander, Albert, Thomas [Aquinas], Bonaventure, and all the rest who have flourished in the Church for these nine hundred years, made use of St. Jerome's version in such a manner, that all the others, though they could hardly be numbered, being almost entirely by Divines, have become obsolete. Hence, it is not without reason that the Catholic Church speaks in such exalted terms of St. Jerome, 'the greatest doctor, divinely raised up to interpret the sacred Scriptures;' and it will be no rash or difficult matter to censure the judgment of all those who either do not acquiesce in the learned labours of so renowned a doctor, or even have the boldness to think that they can offer something better, or at least equal, to the public. However, lest this very accurate translation, which has been found of so very great service to all parts of the Church, should in degree be adulterated, either by the injuries of time or by the negligence of printers, or by the rashness of those who undertake to correct without sufficient grounds, the same most sacred Council of Trent added very wisely to her decree, that this same ancient and Vulgate edition should be printed with all possible accuracy; and that none should be allowed to print it without the permission and approbation of superiors. By which decree, she at the same time set bounds to the licentious temerity of printers, and excited the vigilance and industry of the pastors of the Church to preserve with all vigilance so great a treasure. And although the Divines of some celebrated academies had acquired much applause by their attempts to restore the Vulgate edition to its ancient beauty, yet, as in a matter of so great importance, too great diligence cannot be exerted; and many manuscripts. of the greatest antiquity had been procured and brought to the city by the order of the Pope; in a word, as the execution of decrees of the General Councils, and the integrity and purity of the Scriptures, belong in a particular manner to the care of the apostolic see; hence the sovereign pontiff, Pius IV, watching with the greatest diligence over every part of the Church, commissioned some chosen Cardinals of the Holy Roman Church, and others who were the best acquainted with sacred learning and the various languages, to correct the Vulgate Latin edition in the most accurate manner, after having examined the most ancient manuscripts, the Hebrew and Greek original texts of the Bible, and the commentaries of the ancient Fathers. This plan was pursued by Pius V. But when, on account of the many urgent occupations of the apostolic see, this learned body had not met for a long time, Sixtus V being called by divine Providence to the high priesthood, assembled them again with all diligence, and ordered the work, which was at last brought to a conclusion, to be put to press. When it was printed, and the same Pope was about to send it forth into the world, perceiving that not a few mistakes had crept into the Bible by the fault of the press, which seemed to require a more diligent revision, he judged it expedient, and determined to begin the work afresh. But as he could not execute this his design, being prevented by death, Gregory XIV, who, after the 12 days pontificate of Urban VII had succeeded Sixtus V, in compliance with his intention, undertook to perfect what he had begun, and again deputed some eminent Cardinals, and other learned men, for that purpose. But he also, and his successor, Innocent IX, being taken out of this world, in a very short space of time, at last, towards the commencement of the pontificate of Clement VIII, who now governs the Universal Church, the work which Sixtus V had intended, by the assistance of God, has been brought to a conclusion.
+\ip "Receive then, Christian reader, by the consent of the same pontiff, Clement, from the Vatican press, the ancient and Vulgate edition of the sacred Scripture, corrected with all possible diligence, which though indeed it be difficult, considering human weakness, to assert that it is absolutely perfect, yet that it is more correct and pure than any which till this day have been published, cannot admit of any doubt. And truly, though in this revision of the Bibles, no small pains have been taken in examining the manuscripts, the Hebrew and Greek originals, and even in comparing the commentaries of the ancient Fathers, yet in this Vulgate reading, as some alterations have been designedly made, so also some passages which seemed to claim the same privilege, have been purposely left unchanged. The reasons for so doing, are because St. Jerome frequently admonishes us (Ep ad Sun. et Fret. praef. in Evang.) that this is a necessary precaution to avoid offending the people: besides, we may easily believe that our forefathers, who gave Latin translations out of Hebrew or Greek, were in possession of better and more correct copies than those which are come down to us, which being often copied out, in such a length of time, have perhaps lost something of their purity and correctness: and finally, because it was not the intention of the sacred congregation of most eminent Cardinals, and of other very learned men, who were set over this work by the holy see, to undertake any new edition, or by any means to correct or rectify the old translator, but merely, by removing the mistakes of former transcribers, and the corrections improperly inserted, to restore the same old and Vulgate Latin edition, as far as possible, to its pristine integrity and purity; and to do their utmost endeavours, after it should be thus restored, to have it printed with all accuracy, in compliance with the decree of the General Council. Moreover, in this edition it has been judged expedient to insert nothing but the Canonical books, every other work of human industry, as foreign to our purpose, being removed at a distance; and this is the reason why the 3d and 4th books of Esdras, which the Council of Trent did not number among the Canonical books, and even the prayer of King Manasses, which is extant neither in Hebrew nor in Greek, nor in the more ancient manuscripts, nor forms a part of any Canonical book, have been place out of the order of the Canonical Scripture. Besides, there are not here to be seen any concordances in the margin, (which in future editions are not forbidden to be inserted) no notes, no various readings, no prefaces, no arguments at the beginning of books. But, as the apostolic see does not condemn the industry of those who in other editions have inserted concordances, concordantias locorum, (or what may help to remove apparent contradictions in the text) and also various readings, prefaces of St. Jerome, and other things of the like nature, so she does not forbid these helps for the advantage of the studious being inserted, in a different type, in future impressions of this Vatican edition, provided the various readings be not marked on the margin of the text itself.-----."
+\ip This is the Preface originally prefixed to the Vatican edition of the Vulgate. As it contains an abridgment of the Bull of Sixtus V and gives some account of the pains which have been taken, and of the means adopted, to give a correct edition of this so much admired Vulgate, we thought it could not prove unacceptable to the English reader. The brief of Clement VIII, dated 9th Nov. 1592, in the 1st year of his pontificate, shews the solicitude of his Holiness that this work should descend unadulterated to posterity; and hence he prescribes due limits to the enterprise of printers, and calls upon the vigilance of pastors to prevent any corruption or change being inserted by private authority. This is unquestionably the meaning of those general prohibitions inserted in the Brief, as well as in the Bull of Sixtus V, where this limitation is expressly inserted. "We forbid, in the most decided manner, any person to undertake the impression of the text of a new Vulgate edition of the Bibles, without the express leave of the Apostolic see. Neither let any one dare, or presume, to frame a different edition to suit his own private or peculiar judgment..." They never intended to control future Popes, over whom they could claim no such authority; as they would enjoy the like sovereign power as themselves. Hence if, at any future period, any material improvements should be discovered, by the unremitting labours of the learned, they will be at liberty to authorize them to be adopted; neither can they entertain the smallest apprehension of their infallibility being endangered on this account, nor fear the cavils of Protestants, who, in imitation of Thomas James, (d. 1629) may perhaps amuse their deluded admirers by a sequel to his Papal war. Had the doctor rightly understood the Bull of Sixtus V. and the decree of the Council of Trent, when it defined the Vulgate to be the only authentic Latin version, it is probable he would have spared himself the trouble of shewing that there were many variations in the two editions of Sixtus V and Clement VIII. However, leaving the doctor and his admirers to their own discretion, we cannot but applaud the labours of these great pontiffs for the good of the Church; and we are glad to find, that some of the most learned even of the Protestants, join with us in extolling the accuracy of the Vulgate. I will only mention the learned Mills at present, as his authority must have considerable weight, particularly in his country, to which his labours and judgment have done so much honour. "We look," says he, (Proleg. in N. Test. p. 142) "upon the old Italic version with sovereign respect.... We are also far from saying any thing against the Vulgate edition of St. Jerome.... We are so far from thinking that it ought to be corrected by any printed Greek copy, that we are persuaded no more essential service can be rendered to it, than by correcting it according to the ancient manuscripts. that by this method it may become, as much as possible, similar to that which St. Jerome published."
+\ip To acknowledge, as Drusius has done, (ad loca dif. Pentat.) that the Vulgate is a good translation, and superior in point of authority, to those Latin versions which had made their appearance before the decree of the Council of Trent was promulgated, is all that the Church requires; and this, no equitable judge, who has compared them together, will surely ever deny. One thing ought particularly to make it dear to all Christians, that it was composed so many years before the late dissensions about religion took place; and that by men who cannot be said to have been biased on either side, and who are revered as men of sound doctrine, both by Catholics and Protestants. That the Vulgate was composed by the inspiration of God, as the originals certainly were, no person asserts; neither do Catholics maintain that it is actually free from every imperfection, much less that it was so at the time of the Council of Trent, 1546, April 8th, when the famous decree was made, 46 years before the Clementine edition was given to the public. Since the last correction, many alterations have been proposed by Lucas Brugensis, whose work is published in the 4to edition of Du Hamel. Bellarmine, who was one of those celebrated Cardinals employed by Clement VIII to revise his edition of the Vulgate, Baronius, and N. Alexander, in their annals, etc., point out several amendments which might still be made. None of them, indeed, affect the faith or morals of Christians; but still they deserve attention, as nothing can be esteemed little with regard the word of God. Hence, in the notes which will accompany this edition, the most important amendments at least will be noticed: not that we mean to reject the Vulgate, or to take upon ourselves the right of deciding that they ought to be admitted, but only in imitation, and by the authority of so many great and good Catholics, to promote the cause of God, by separating what may be called in question, from his most sacred and undoubted revelation. See Philip's C. Pole, II. 17. Bellarmine, Diss. etc.
+\ip So much we thought proper to premise, in order to obviate the mistakes or clamours of those who may be less informed. In the dissertations which may be printed after the sacred books are finished, a more particular account will be given of the Vulgate, as also the original texts, and of the most authentic versions; for we must here again observe, with Bellarmine, (Dissert. on the Vulgate.) that the oriental churches possess authentic versions, though not declared in such express terms as the Vulgate has been, for those of the western parts; authentic, we mean, in the sense of the Council of Trent, conformably to the decision of civilians; "That writing is authentic (says Julian J. C. de fide Instrumentorum) which in itself deserves credit in courts of judicature, and is of sovereign authority, so that it ought not to be rejected or called in question by any one." Scriptum aliquod ex se fidem facit in judicio, et supremae est auctoritatis ut a nullo rejici vel in questionem vocari debeat. Thus the Vulgate must not be rejected, though there may be a disputed concerning some particular passage; it is of such authority, that in disputes it may be safely alleged. So may also the Septuagint; and still more the originals, which are intrinsically authentic; whereas the versions can possess only an extrinsic authenticity. Yet al must be examined with care. If the originals were certainly in the same state as when the came from the hands of the sacred penmen, no syllable could be rejected; but as they have been subject to the same inconvenience as other writings, from the carelessness, or from the malice of transcribers, as has been abundantly proved both by Catholics and Protestants, (See Kennicott's two Dissertations, Capellus, Critica sacra, etc.) Despise not on this account the prophecies; but prove ever thing, maintain what is right, 1 Thessalonians 5:21. We shall shew in another place, that these mistakes do not injure our faith, though they sometimes prove a stumbling-block to infidels, and are truly a scandal to heretics, who build their faith entirely upon the Scriptures, heedless of the command of Christ, when he said to his apostles, He that heareth you heareth me...and He that will not hear the Church, let him be to thee as the heathen and the publican. With some appearance of reason, therefore, did Protestants, for many years, maintain the absolute perfection of the originals; and those who denied it, were declared accursed by the churches of Switzerland, not many years ago, as we learn from Kennicott. This learned man calls upon the English church, (to which he gives the titles of the ground and pillar of truth, which were given by St. Paul to the Catholic Church alone) he earnestly solicits the heads of this church, to sanction the many important improvements which he had collected from the Hebrew manuscripts, that when a new English version should be given, as it is loudly called for by him, Dr. Blaney, and others, on account of the inaccuracies of the present Protestant version, it may be more conformable to what was dictated by the Almighty. Such a work, if well executed, might indeed be of great service to those who study the sacred Scriptures, though we could hardly hope but that the false doctrine of those who are engaged in error, would give a leaven of insincerity to their translations, as it did to those of Aquila, Theodotion, and Symmachus, and more recently to that of Beza, of whom Pearson, a Protestant writer of eminence, complains on this very account. (Praef. in Sept. Cantab.)
+\ip Timeo Danaos et dona ferentes.
+\ip Hence, though we have occasionally consulted some of the heterodox versions and commentators, in points of criticism; yet it has been with fear of deception, and we have dwelt upon the works of Catholic authors, both with greater pleasure and advantage. To obviate the misinterpretations of the may heretical works which disgrace the Scripture, and deluge this unhappy country, has been one main design of the present undertaking. In our endeavours to explain the Vulgate, the notes will be selected from commentators of the highest respectability, whose names we shall mention, at least in matters of any importance, or where any of them has suggested an explanation, striking and peculiar to himself. To adhere to the first inventor every observation, we do not suppose will be requisite; neither would the trouble attending such researches, or expense of printing so many names, be compensated by the utility. We shall subjoin at the end of this preface the names of those who have been chiefly consulted. Little Greek or Hebrew will be inserted; the latter will only be given in English characters, expressing each Hebrew letter by such as are adopted either in the Rabinical, or in a new method of reading Hebrew without points. The English letters which here correspond with the Hebrew alphabet, are, a, b, g, d, e, u or v, z, e, t, i or j, c, l, m, n, s, a, p, ts, k, r, ss, th. Of these, six are vowels, a, e, u, i, long e and a: But u and i are also consonants before vowels; the other 16 letters are consonants, and are pronounced, when many come together, by inserting o; thus m l c, must be moloc, a king; also the name of an ancient idol, e d k, edok, a thorn; ari, a lion; Jeve, the Self-existent Being, pronounced Jehovah by moderns, though without reason. See Amama, p. 319. This method frees....the student from the perplexing difficulties of the Massorets, and allows him time to improve himself in things which may be of far greater service. The invention of Hebrew points, is allowed by all good critics to have been a work of too late a date to be of any great authority; and when we reflect that by these points the Jews have frequently rendered passages obscure, which were favourable to the Christian religion; we ought to be upon our guard how we find fault with the versions of St. Jerome, and of the Septuagint, who were acquainted with them. This observation will also serve to point out the causes of the many different versions of the same passage in the ancients, and of the wonderful conformity which is observed among the modern interpreters. The accents and spirits in Greek are not of greater authority; they are entirely omitted in the famous Alexandrian Manuscript of the Septuagint, (not to mention others) and are also neglected in the Complutensian Polyglot; because they were not found in the manuscripts. which were consulted, nor indeed are they in any of those which are most esteemed for their antiquity. We do not deny but that they may be of some service, as well as the Hebrew points; but they cannot stand their ground in a dispute, or make the victory declare for either party, as their origin is certainly human. Punctuation, though nearly of the same nature, must not however be altered to favour heresy or to pervert morals, which has sometimes been the case. Thus the Socinians read, John 1:1. "and God was. This word was," etc. instead of the word was God; and libertines read, 1 Corinthians 7:36. let him do what he will he does not sin; if he marry.
+\ip In all these things let us cling invariably to the doctrine of the Church, and receive the bread which she breaks for her little ones with gratitude and submission; she invites us to take into our hands the sacred volumes, and to meditate on the, day and night: she cautions us indeed against the false translations and comments of heretics, whose doctrine creepeth as a cancer. But she assures us, that there is nothing to fear from this ancient and Vulgate version, provided we receive it in that sense, in which it was first delivered, and as it has been constantly expounded by the Catholic Church, to whom alone this province belongs. To her judgment we entirely submit all our labours, and retract whatever may be found worthy of censure by her sovereign judgment. "I may fall into a mistake," says the humble St. Augustine, "but I will not be a heretic." It was from the Church we received these venerable books: as the same Saint observes, "I would not believe the Gospels, unless the authority of the Catholic Church influenced me to do so." contra Epist. Fundam. And why should we refuse to receive the interpretation of all difficult passages from the same unerring source, the ground and pillar of truth? 1 Timothy 3. What has Marcion, Luther, or Wesley to do in her field? she possessed it first; she received it from those Apostles to whom it certainly belonged. No; the gates of hell itself shall not prevail against her. Christ is with her all days; his Holy Spirit is sent purposely to guide her into all truth which is necessary for man to know. Search then the Scriptures under her guidance, (John 5:39.) in which, as St. Peter admonishes us, (2 Peter 3:16, 17.) are some things hard to understand, which the unlearned and unstable wrest...to their own destruction. You therefore, brethren, knowing these things before, take heed, lest being lead aside by the error of the unwise, you fall from your own steadfastness. If you read in this spirit, the Scriptures will prove a book of life, the covenant of the Most High, as it is justly styled in Ecclesiasticus 24:32. This is the book of the commandments of God, says Baruch, and the law that is for ever; all that keep it, shall come to life; but they that have forsaken it, to death. Return, O Jacob, and take hold of it, walk in its brightness... We are happy, because the things which are pleasing to God, are made known to us. In a word, whenever we take this sacred book into our hands, let us bless God, who has given such gifts to man, and raising our hearts and minds to the Father of lights, and the God of all consolation, let us beg, with all earnestness, that we may read for our improvement in all virtue, and neither be deceived by misunderstanding what we read, nor lead others astray. Non decipiar in his, non decipiam ex his. St. Augustine. Come, Holy Spirit, etc. Let us never forget those memorable words of the Prince of the Apostles: We have also the more firm prophetical word, whereunto you do well to attend, as to a light that shineth in a dark place, until the day dawn, and the day-star arise in your heart. Understanding this first, that no prophecy of Scripture is made by private interpretation; for prophecy come not by the will of man at any time, but the holy men of God spoke, inspired by the Holy Ghost, 2 Peter 1:19, 20. --- This Book of God, as the Arabic version styles the Book of Genesis, as the head of all the Scripture, this Book of Wisdom, shall praise her own self, shall glory in the midst of her people, and shall open her mouth in the Churches of the Most High... I came out of the mouth of the Most High...as a cloud I covered all the earth...come over to me all ye that desire me, and be filled with my fruits, etc. Ecclesiasticus 24:1. etc.
+\ipi Haydock.
+\periph Abbreviations
+\h Principal Commentators
+\imt1 Principal Commentators
+\im Commentators most frequently consulted, will be thus marked --- B. Bristow, C. Calmet, Ch. Challoner, D. Du Hamel, E. Estius, J. Jansenius, M. Menochius, P. Pastorini or Walmesey, Po. Polus, T. Tirinus, V. Bible de Vence, W. Worthington, Wi. Witham. The Rev. Fr. Haydock's original observations, or such, at least, as he could not easily trace to their real authors, either through forgetfulness, or because he adopted some alteration, or received them from some of his learned friends, whose names he was not at liberty to mention will be marked in the Old Testament with the letter H, while additional notes in the New Testament will be marked with the letter A. The names of other authors, who may be occasionally consulted, will be given at length.
+\imt3 A LIST OF THE PRINCIPAL COMMENTATORS, etc.,
+\iq (with the year of their death.)
+\im Note: Those who have an asterick, *, prefixed to their Names, have been perhaps Men of Learning, but they have erred from the Faith which was once delivered to the Saints, and can therefore be consulted only as Critics, or to be refuted.
+\imt5 A
+\ili St. Ambrose (397)
+\ili St. Anselm (1109)
+\ili St. Athanasius (373)
+\ili St. Augustine (430)
+\ili C. Wm. Allen (1594)
+\ili * Aquila Gr. Int. (130)
+\ili * Amana (1629)
+\imt5 B
+\ili St. Basil (379)
+\ili Ven. Bede (735)
+\ili St. Bernard (1153)
+\ili St. Bonaventure (1274)
+\ili C. Caes. Baronius (1607)
+\ili C. Rob. Bellarmine (1621)
+\ili W.F. Berthier (1782)
+\ili Jas. Bonfrere (1642)
+\ili Ric. Bristow (1581)
+\ili Alb. Butler (1773)
+\ili J.B. Bossuet (1704)
+\ili Bartholocci (1687)
+\ili * Beza (1605)
+\ili * Bayle (1706)
+\ili * Bochart (1667)
+\imt5 C
+\ili St. John Chrysostom (407)
+\ili Clement of Alexandria (217)
+\ili St. Cyprian (258)
+\ili St. Cyril of Jerusalem (386)
+\ili St. Cyril of Alexandria (444)
+\ili Ric. Challoner (1781)
+\ili Denis the Carthusian (1471)
+\ili Aug. Calmet (1757)
+\ili C. Thos. Cajetan (1534)
+\ili C. Amb. Catharin (1553)
+\ili Pet. Collet (1770)
+\ili Carrieres (1717)
+\ili De La Chetardie (1714)
+\ili De Calasio.---Conc. (1621)
+\ili * Calvin (1564)
+\ili * Le Clerc (1736)
+\ili * Cappel (1658)
+\ili * Colier.---Dict. (1721)
+\ili * Chateillon (1563)
+\imt5 D
+\ili St. John Damascene (780)
+\ili Du Pin (1720)
+\ili Duquesne (1790)
+\ili * De Dieu (1642)
+\ili * Drusius (1616)
+\imt5 E
+\ili St. Ephrem (380)
+\ili St. Epiphanius (403)
+\ili Eusebius (339)
+\ili D. Erasmus (1536)
+\ili Wm. Estius (1613)
+\imt5 F
+\ili Cl. Fleury (1723)
+\ili Fs. Foreiro (1581)
+\ili M.A. Flaminius (1550)
+\ili * Fagius (1550)
+\ili * J.A. Fabricius (1736)
+\ili * Frishmuth (1687)
+\imt5 G
+\ili St. Gregory I. (604)
+\ili St. Gregory of Nazianzus (390)
+\ili St. Gregory of Nyssa (400)
+\ili Jo. Gerson (1429)
+\ili Guarin (1729)
+\ili J. Gordon (1641)
+\ili Gil. Genebrard (1597)
+\ili * Grotius (1645)
+\ili * Grabe (1712)
+\imt5 H
+\ili St. Hilary, Pict. (368)
+\ili Hesychius (609)
+\ili J.B. Du Hamel (1706)
+\ili George Leo Haydock (1849)
+\ili Jo. Henten (1566)
+\ili Houbigant (1783)
+\ili P. Dan. Huet (1721)
+\ili * Hammond (1660)
+\imt5 I
+\ili St. Ignatius, M. (107)
+\ili St. Isidore, Sev. (636)
+\ili St. Irenaeus (202)
+\ili Innocent III. (1216)
+\imt5 J
+\ili St. Jerome (420)
+\ili J. Justin Martyr (167)
+\ili Jansenius (1576)
+\ili C. Jans. of Ypres (1638)
+\ili * Juda Hakkad (2 Cent.)
+\ili * Josephus (1 Cent.)
+\ili * Blind Joseph (1 Cent.)
+\ili * Jarchi Rabbi (1180)
+\ili * King James I.---Bible by 47 Translators, in 6 divisions. (1607)
+\ili * Junius (1602)
+\imt5 K
+\ili * Kennicott (1783)
+\ili * Kimchi, R. (1240)
+\imt5 L
+\ili St. Leo I. (461)
+\ili Louvain Bible (1583)
+\ili Luc. of Bruges (1619)
+\ili Cornelius a Lapide (1637)
+\ili Phil. Labbe (1667)
+\ili Lenglet (1755)
+\ili Liranus (1340)
+\ili J. Le Long (1721)
+\ili * Leo of Modena (1609)
+\ili * Leigh (1671)
+\ili * Lightfoot (1675)
+\ili * Luther (1546)
+\imt5 M
+\ili Maldonat (1583)
+\ili T. Malvenda (1628)
+\ili And. Massius (1573)
+\ili Mic. Mauduit (1709)
+\ili Jo. Mariana (1624)
+\ili Menochius - Ed. 4 vol. by Tournemine. (1655)
+\ili Ber. Montfaucon (1741)
+\ili Jo. Morinus (1659)
+\ili Sim. de Muis (1644)
+\ili * Maimonides (1209)
+\ili * Marsham (1685)
+\ili * Mill (1707)
+\ili * Munster (1552)
+\ili * Michaelis (1700)
+\imt5 N
+\ili Noel, Alexander (1724)
+\ili Nob. Flaminius (1590)
+\imt5 O
+\ili Origen (253)
+\ili Oecumenius (10 Cent.)
+\ili Jer. Oleaster (1583)
+\ili * Onkelos Chaldean (1 Cent.)
+\imt5 P
+\ili St. Paulin (431)
+\ili St. Prosper (463)
+\ili Sant. Pagnin (1536), tr. and revised by
+\ili B. Ar. Montanus (1598)
+\ili Ja. Pamelius (1587)
+\ili Pelletier (1711)
+\ili Den Petau (1652)
+\ili Paul Pezron (1706)
+\ili Jo. Pineda (1637)
+\ili Bas. Ponce (1629)
+\ili Ben Porerius (1610)
+\ili Jo. Price (1676)
+\ili * Pliny the elder (79)
+\ili * Philo the Jew (1 Cent.)
+\ili * Polus, or Poole (1669)
+\ili * Pococke (1691)
+\imt5 Q
+\ili Mic. Le Quien (1733)
+\ili * Pas. Quesnel (1719)
+\imt5 R
+\ili Rab. Maurus (856)
+\ili Mart. Raimond (1286)
+\ili Rupert (1155)
+\ili Ribera (1591)
+\ili J.B. Riccioli (1671)
+\ili Wm. Reynolds (1592)
+\ili Rondet (1785)
+\ili * Rivet (1651)
+\ili * Reland (1718)
+\ili * J.J. Rousseau (1778)
+\imt5 S
+\ili Septuagint (B.C. 284, etc.)
+\ili (Edited by Sixtus V, 1587, and Du Bos, from the Vatican; by Grabe, from the Alexandria Copy.) Samaritan-----Greek Version older.
+\ili Sulp. Serverus (420)
+\ili Em. Sa (1596)
+\ili Jas. Salicu (1640)
+\ili Alf. Salmeron (1585)
+\ili Gas. Sanchez (1628)
+\ili Nic. Serarius (1609)
+\ili Ch. Sigonius (1594)
+\ili Sext. of Sienna (1560)
+\ili Hen. Sponda (1643)
+\ili Ric. Simon (1712)
+\ili Aug. Steuchus Eug. (1550)
+\ili * Le Mait de Saci (1684)
+\ili * Symmachus (200)
+\ili * 2 Scaligers (1558 et 1609)
+\ili * Saumaise (1653)
+\ili * Schmid (1697)
+\ili * Selden (1654)
+\ili * Spencer (1693)
+\ili * Strabo (16)
+\imt5 T
+\ili St. Thomas Aquinas (1274)
+\ili Theodoret (458)
+\ili Theophylactus (1071)
+\ili Theophilus An (182)
+\ili Jas. Tirinus (1636)
+\ili Le Nain Tillemont (1698)
+\ili N. Toinarel (1706)
+\ili Alf. Tostat (1454)
+\ili Fr. Turrian (1584)
+\ili R. Jos. Tournemine (1739)
+\ili * Theodotion (185)
+\ili * Tertullian (245)
+\ili * Tremellius (1580)
+\imt5 U
+\ili * Jas. Usher (1655)
+\imt5 V
+\ili Laur. Valla (1565)
+\ili Vatable (1547)
+\ili Correct Edit. of Salamanca (1584)
+\ili Fr. Vavasseur (1681)
+\ili Gab. Vasquez (1604)
+\ili J.B. Vallalpand (1608)
+\ili Marq. Velesius, or Pet. Faxard (1600)
+\ili L. Vives (1540)
+\ili * Mic. Villanovan, or Servetus (1553)
+\ili * Js. Vossius (1689)
+\ili * Voltaire (1778)
+\imt5 W
+\ili Th. Worthington (1626)
+\ili C. Walmesley (1797)
+\ili Rob. Witham (1738)
+\ili Th. Ward (1708)
+\ili * Walton (1661)
+\ili * Wetstein (1754)
+\ili * Whitby (1726)
+\ili * Wesley (1791)
+\ili * Whitfield (1769)
+\ili * Whiston (1755)
+\ili * Wolf (1744)
+\imt5 X
+\ili Ximenes the 1st Polyglot (1502-22)
+\imt5 Z
+\ili Zunica, or Stunica (1530)
+\periph OT Title page
+\ib7
+\imt1 OLD TESTAMENT
